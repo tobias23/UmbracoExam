@@ -1,0 +1,19 @@
+Login til Umbraco:
+
+Navn: Toby.skov.ludvigsen@gmail.com
+
+Password: 1234567890
+
+Active member login:
+
+Name: Don
+
+Password: 1234567890
+
+Prospect Member:
+
+Name: Sjøren
+
+Password: 1234567890
+
+Link til GitHub: https://github.com/tobias23/UmbracoOpgave
